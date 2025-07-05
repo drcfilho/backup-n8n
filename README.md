@@ -1,4 +1,5 @@
 # n8n Automated Workflow Backup 🚀
+## Todos os direitos para o autor original **Oskar** do canal: [https://www.youtube.com/@workfloows](https://www.youtube.com/@workfloows)
 
 Este repositório contém um fluxo n8n para realizar **backups automatizados** dos seus fluxos n8n para um repositório GitHub.
 
